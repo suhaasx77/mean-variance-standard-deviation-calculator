@@ -1,6 +1,5 @@
 # mean-variance-standard-deviation-calculator
 
-Below is the complete solution for **`mean_var_std.py`** that passes the freeCodeCamp **Mean-Variance-Standard Deviation Calculator** project requirements.
 
 ```python
 import numpy as np
